@@ -17,17 +17,27 @@ Now apply the same concept to the entire home and all the devices present. That 
 ![image](https://user-images.githubusercontent.com/107802002/208313861-b9919f9c-8e99-4e50-8134-ccffae8aded0.png)
 
 **COMPONENTS**
+
 **HARDWARE**
+
     • MICROCONTROLLER(ESP 8266)
+    
     • RELAY MODULES 5V
+    
     • 5V POWER SUPPLY BOARD
+    
     • RECTIFIER CIRCUIT
+    
     • DC TO DC CONVERTERS
+    
     • MOBILE PHONE
+    
     • INTERNET CONNECTION
+    
     • AC LOADS
 
 **SOFTWARE**
+
     • ARDUINO IDE
 
 **ADVANTAGES**

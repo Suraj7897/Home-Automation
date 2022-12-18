@@ -17,11 +17,9 @@ Now apply the same concept to the entire home and all the devices present. That 
 ![image](https://user-images.githubusercontent.com/107802002/208313861-b9919f9c-8e99-4e50-8134-ccffae8aded0.png)
 
 **Video of Project**
-
-
-https://user-images.githubusercontent.com/107802002/208314261-caa91589-7487-4118-b655-12505fa228e4.mp4
-
- file:///home/suraj/Downloads/WhatsApp%20Video%202022-12-19%20at%2012.11.28%20AM.mp4
+ file:///home/suraj/Downloads/Home-Automation-System.mp4
+ 
+ file:///home/suraj/Downloads/Home-Automation-System2.mp4
 
 **COMPONENTS**
 

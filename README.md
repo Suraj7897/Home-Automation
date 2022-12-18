@@ -41,19 +41,31 @@ Now apply the same concept to the entire home and all the devices present. That 
     • ARDUINO IDE
 
 **ADVANTAGES**
+
     • Managing all of your home device from one place
+    
     • Flexibility for new devices and appliances
+    
     • Maximizing home security 
+    
     • Remote control of home functions
+    
     • Increased energy efficiency
+    
     • Improved appliance functionality
+    
     • Home management insights
+    
   
  **DISADVANTAGES**
-    • Initial cost is more
-    • Maintenance
-    • Data transmission speed is less
  
+    • Initial cost is more
+    
+    • Maintenance
+    
+    • Data transmission speed is less
+    
  **FUTURE SCOPE**
+ 
 Future scope for the home automation systems involves making homes even smarter. The system can be integrated closely with home security solutions to allow greater control and safety for home owners. The next step would be to extend this system to automate a large scale environment, such as offices and factories.
  
